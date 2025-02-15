@@ -1,8 +1,6 @@
 # Github代码自动Commit
 
-
 自动保持 GitHub 提交状态常绿。
-
 
 ## 原理
 
@@ -39,10 +37,3 @@
 | `/`   | 每         | `*/15 * * * *` 每隔 15 分钟                  |
 
 **注**：由于 GitHub Actions 的限制，如果设置为 `* * * * *` 实际的执行频率为每 5 分执行一次。
-
-## License
-
-[auto-green](https://github.com/yancie2015/AutoGreen) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
-
-
-Powered by GerMay
